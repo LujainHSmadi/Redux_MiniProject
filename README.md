@@ -1,1 +1,2 @@
-# Redux_MiniProject
+# React-Redux-project
+React-Redux mini project
